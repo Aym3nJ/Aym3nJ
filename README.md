@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aym3nJ
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently using Java 
--    but i do like to use C++ and Python from time to time
+- 🌱 I’m currently using Java and Python
 - 💞️ I’m looking to collaborate on something new
 - 📫 How to reach me Telagram @Aym3nJ
 
